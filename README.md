@@ -1,3 +1,8 @@
-# ptojetos-python
+# 👩🏻‍💻 Projeto-Python
 
-Aqui você pode ver um pouco do que eu aprendi no meu curso python, isso é apenas o começo
+**`Curso de pythom`**
+
+Aqui você consegue ver um pouco do que aprendi em python.
+
+
+---
